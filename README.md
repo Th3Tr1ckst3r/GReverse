@@ -42,7 +42,7 @@ Demonstration of GReverse with facial recognition enabled.
 GReverse uses Python3 natively, so you will need to have it installed before proceeding. Once you have done that follow
 the steps below.
 
-# Python3 Libraries Installation Guide
+# Required Libraries Install Guide
 
 To use GReverse, the following Python3 libraries will need to be installed. You can install them using the Python package manager `pip`.
 Below are the installation instructions for each library:

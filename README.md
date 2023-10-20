@@ -31,7 +31,7 @@ range of capabilties using OSINT (Open Source Intelligence).
 
 This is the primary command line(CLI) interface.
 
-![GReverse_Interface](https://i.imgur.com/ygmmvI5.png)
+![GReverse_Interface](https://i.imgur.com/2gvqRJs.png)
 
 Demonstration of GReverse with facial recognition enabled.
 

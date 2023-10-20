@@ -63,11 +63,7 @@ Below are the installation instructions for each library:
     pip install google-cloud-vision
     ```
 
-3. **Google Cloud Vision Types (google-cloud-vision types)**
-
-    The `types` module is part of the `google-cloud-vision` package and should be installed automatically when you install `google-cloud-vision`. No additional installation steps are required.
-
-4. **Protocol Buffers (google.protobuf)**
+3. **Protocol Buffers (google.protobuf)**
 
     You can install the Protocol Buffers library using `pip`:
     
@@ -75,7 +71,7 @@ Below are the installation instructions for each library:
     pip install protobuf
     ```
 
-5. **Face Recognition (face_recognition)**
+4. **Face Recognition (face_recognition)**
 
     Install the Face Recognition library using `pip`:
     
@@ -83,7 +79,7 @@ Below are the installation instructions for each library:
     pip install face_recognition
     ```
 
-6. **TQDM (tqdm)**
+5. **TQDM (tqdm)**
 
     You can install the TQDM library using `pip`:
     
@@ -91,7 +87,7 @@ Below are the installation instructions for each library:
     pip install tqdm
     ```
 
-7. **Dict2XML (dict2xml)**
+6. **Dict2XML (dict2xml)**
 
     Install the Dict2XML library using `pip`:
     

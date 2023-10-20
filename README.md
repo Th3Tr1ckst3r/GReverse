@@ -99,4 +99,12 @@ With these libraries installed, you can proceed to the next step which is config
 
 # Configurations
 
+To properly configure your Google Python3 installation, follow the guides below:
+
+[Python3_Google_Quickstart_Guide](https://developers.google.com/docs/api/quickstart/python)
+
+Its recommended to have two programmable custom search engines. One configured for images only, and the other for links only.
+You will also need to add both search engine ID's to the creds.py file located in the api_creds folder.
+
+[Python3_Custom_Search_Guide](https://developers.google.com/custom-search/docs/overview)
 

@@ -73,8 +73,6 @@ https://raw.githubusercontent.com/Th3Tr1ckst3r/GReverse/main/LICENSE
 
 """
 import os
-# Setting the minimum TensorFlow log level, in order to prevent the deep face module from clogging up the terminal.
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import sys
 import re
 import json

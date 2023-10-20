@@ -37,6 +37,70 @@ Demonstration of GReverse with facial recognition enabled.
 
 ![Facial_Recognition_Demo](https://i.imgur.com/Ho3Fxan.png)
 
-## Installation
+## Installation Notice
 
-Better documentation coming soon...
+GReverse uses Python3 natively, so you will need to have it installed before proceeding. Once you have done that follow
+the steps below.
+
+# Python3 Libraries Installation Guide
+
+To use GReverse, the following Python3 libraries will need to be installed. You can install them using the Python package manager `pip`.
+Below are the installation instructions for each library:
+
+1. **Google API Client Library (googleapiclient)**
+
+    You can install the Google API Client Library using `pip`:
+    
+    ```bash
+    pip install google-api-python-client
+    ```
+
+2. **Google Cloud Vision (google-cloud-vision)**
+
+    Install the Google Cloud Vision client library using `pip`:
+    
+    ```bash
+    pip install google-cloud-vision
+    ```
+
+3. **Google Cloud Vision Types (google-cloud-vision types)**
+
+    The `types` module is part of the `google-cloud-vision` package and should be installed automatically when you install `google-cloud-vision`. No additional installation steps are required.
+
+4. **Protocol Buffers (google.protobuf)**
+
+    You can install the Protocol Buffers library using `pip`:
+    
+    ```bash
+    pip install protobuf
+    ```
+
+5. **Face Recognition (face_recognition)**
+
+    Install the Face Recognition library using `pip`:
+    
+    ```bash
+    pip install face_recognition
+    ```
+
+6. **TQDM (tqdm)**
+
+    You can install the TQDM library using `pip`:
+    
+    ```bash
+    pip install tqdm
+    ```
+
+7. **Dict2XML (dict2xml)**
+
+    Install the Dict2XML library using `pip`:
+    
+    ```bash
+    pip install dict2xml
+    ```
+
+With these libraries installed, you can proceed to the next step which is configurations.
+
+# Configurations
+
+

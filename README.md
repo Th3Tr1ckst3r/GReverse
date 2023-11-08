@@ -42,7 +42,7 @@ Demonstration of GReverse with facial recognition enabled.
 GReverse uses Python3 natively, so you will need to have it installed before proceeding. Once you have done that follow
 the steps below.
 
-# Required Libraries Install Guide
+## Required Libraries Install Guide
 
 To use GReverse, the following Python3 libraries will need to be installed. You can install them using the Python package manager `pip`.
 Below are the installation instructions for each library:
@@ -97,7 +97,7 @@ Below are the installation instructions for each library:
 
 With these libraries installed, you can proceed to the next step which is configurations.
 
-# Configurations
+## Configurations
 
 To properly configure your Google Python3 installation, follow the guides below:
 
@@ -107,4 +107,14 @@ Its recommended to have two programmable custom search engines. One configured f
 You will also need to add both search engine ID's to the creds.py file located in the api_creds folder.
 
 [Python3_Custom_Search_Guide](https://developers.google.com/custom-search/docs/overview)
+
+<a name="Contributors"></a>
+## Contributors
+
+<p align="center">
+    <a href="https://github.com/Th3Tr1ckst3r"><img src="https://avatars.githubusercontent.com/u/21149460?v=4" width=75 height=75></a>
+</p>
+
+
+I welcome you to contribute code to GReverse, and thank you for your contributions, feedback, and support.
 

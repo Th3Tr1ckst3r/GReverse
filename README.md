@@ -13,9 +13,12 @@ A reverse search tool for OSINT (Open Source Intelligence) gathering & facial re
 
 ## About
 
-GReverse is a reverse search tool built for data researchers, penetration testers, security analysts, and more. If all your given is an image, or name and
-you need more information, with GReverse you are able to perform accurate reverse image searches & data searches with a wide 
-range of capabilties using OSINT (Open Source Intelligence).
+GReverse is a reverse search tool built for data researchers, penetration testers, security analysts, and more.
+
+## Why Use GReverse?
+
+If all your given is an image, or name and you need more information, with GReverse you are able to perform accurate 
+reverse image searches & data searches with a wide range of capabilties using OSINT (Open Source Intelligence).
 
 ## Features
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/m9cOCGs.png" alt="GReverse Logo" width="150">
+  <img src="https://i.imgur.com/m9cOCGs.png" alt="GReverse Logo" width="300">
 </p>
 
 # GReverse
@@ -29,9 +29,9 @@ range of capabilties using OSINT (Open Source Intelligence).
 
 ## Screenshots
 
-This is the primary command line(CLI) interface.
+This is the command line(CLI) interface.
 
-![GReverse_Interface](https://i.imgur.com/2gvqRJs.png)
+![GReverse_CLI](https://i.imgur.com/2gvqRJs.png)
 
 Demonstration of GReverse with facial recognition enabled.
 

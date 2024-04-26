@@ -82,7 +82,7 @@ from api_creds.creds import googleCreds
 
 def main():
     parser = argparse.ArgumentParser(prog='greverse.py',
-                                     description="GReverse V1.0 - A reverse search tool for OSINT (Open Source Intelligence) gathering & facial recognition via Google Custom Search & Google Vision API's by Th3Tr1ckst3r @ github.com.", epilog='For more help, please visit:  https://github.com/Th3Tr1ckst3r/GReverse')
+                                     description="GReverse V1.0 - A reverse search tool for OSINT (Open Source Intelligence) gathering & facial recognition via Google Custom Search & Google Vision API's.", epilog='For more help, please visit:  https://github.com/Th3Tr1ckst3r/GReverse')
     parser.add_argument('--image', type=str, help='Google Vision path to a local image file, or a URL.')
     parser.add_argument('--query', type=str, help='Google Custom Search using a query string.')
     parser.add_argument('--restrict_query', action='store_true', default=False, help='Exclude image output from the query search. In other words, regular Google search for links related to our query.')
